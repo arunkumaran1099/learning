@@ -1,6 +1,6 @@
 <style>
     * {
-        padding: 0;
+        padding: 22;
         margin: 0;
         text-decoration: none;
         list-style: none;
